@@ -21,3 +21,5 @@ If there are any errors, the script will report them and abort.
 
 If you want to change settings (number of Ceph nodes, CPU, RAM, HDD), please refer to "config.sh".
 
+This will install RadosGW
+
